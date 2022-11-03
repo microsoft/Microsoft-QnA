@@ -25,7 +25,8 @@ Before you start, here's what you need to note.
 Here are some resources that you may find helpful. 
 ### Samples
 * [Sample script](./asset/sample/questions-and-answers-sample.docx) to follow - Here we demonstrate steps to execute and executable in Azure
-* [Sample still image](./media/sample-azportal-kudupath.png) in 1980 x 1020
+* [Sample videos screen captures](./asset/sample/Screen_only_1080_no-zoom.mp4) in 1980 x 1020
+* [Sample still image](./sample/sample-azportal-kudupath.png) in 1980 x 1020
 
 ### Requirements  
 
