@@ -15,6 +15,7 @@ Before you start, here's what you need to note.
 * Visit [Microsoft Q&A](https://aka.ms/MicrosoftQuestionsandAnswers)
 * Start by combing through the questions and the tags to find questions that are frequently asked, in the topic that you are passionate about.
 * Refer to [briefing notes]
+* Refer to [How to write a quality answer](https://learn.microsoft.com/en-us/answers/support/quality-answer?utm_source=github) for the best practices.
 * <b>Important</b> - Once you decide on the question to address and answer, create your script. Refer to sample script and use the template script found in the <b>Creator's resources</b> below.
 * <b>Important</b> - Provide still images that will accompany your script. Follow requirements below.
 * Complete [Call for Content form](https://forms.office.com/r/RMXR9TbVbe) to inform us to submit your content.
