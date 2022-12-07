@@ -38,7 +38,7 @@ Here are some resources that you may find helpful.
 You may best view these samples on Chrome and Safari. 
 * [Sample script](./asset/sample/questions-and-answers-sample.docx) to follow - Here we demonstrate steps to execute and executable in Azure
 * [Sample videos screen captures](./asset/sample/Screen_only_1080_no-zoom.mp4) in 1980 x 1020 - You will see the not all screen captures are included in the example of the finished video) 
-* [Sample still image](./sample/sample-azportal-kudupath.png) in 1980 x 1020
+* [Sample still image](./sample/sample-azportal-kudupath.png) in 1980 x 1020 >> fixing broken link here
 * [Example of finished videos](./asset/sample/QnA%20-%20Execute%20an%20Exe%20in%20Azure_final.mp4) 
 
 
