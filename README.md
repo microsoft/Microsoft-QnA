@@ -27,21 +27,22 @@ Before you start, here's what you need to note.
     - Refer to sample script and use the template script found in the [Creator's resources](#creators-resources) below.
     - Refer to [How to write a quality answer](https://learn.microsoft.com/en-us/answers/support/quality-answer?utm_source=github) for the best practices.
 1. Provide screen recording that will accompany your script. Follow requirements below.
-1. Complete [Call for Content form](https://forms.office.com/r/RMXR9TbVbe) to inform us to submit your content.
-  
+1. Complete [Call for Content form](https://forms.office.com/r/RMXR9TbVbe) to inform us to submit your content.  
 <i> Please note that submissions are subjected to Microsoft Q&A's team approval. Creators with shortlisted submissions will be notified via email before content is published on the site.</i>
+1. Once your submission is approved, we will work with you to produce the video. Production will be done on our end. 
+1. Once video is produced, you will amplify it on Microsoft Q&A and other forums with similar threads and questions. 
 
 ## Creator's resources
 
 Here are some resources that you may find helpful.
 
 ### Samples & Example
-Our content creator, Frank Boucher, has decided to address the question "How to run an .exe file from Azure Function" on Microsoft Q&A. 
+Our content creator, Frank Boucher, has decided to address the question "How to run an .exe file from Azure Function" (https://learn.microsoft.com/en-us/answers/questions/806260/execute-an-exe-in-azure.html) on Microsoft Q&A. 
 Here are all the pieces of content that Frank provided for the creation of a One Dev Q&A video.
 
 #### Script
 
-The script is the source of thru that provide all the information for us to produce your video. It provides the text that our professional will read to create an audio file.
+The script is the source of truth that provides all the information for us to produce your video. It provides the text that our professional will read to create an audio file.
 
 The script also contains instruction for the video editor to highlight part of the screen when it make sense (ex: highlight line 31 in the code when explanations are provided).
 
