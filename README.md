@@ -35,15 +35,18 @@ Here are some resources that you may find helpful.
 
 ### Samples
 
+You may best view these samples on Chrome and Safari. 
 * [Sample script](./asset/sample/questions-and-answers-sample.docx) to follow - Here we demonstrate steps to execute and executable in Azure
-* [Sample videos screen captures](./asset/sample/Screen_only_1080_no-zoom.mp4) in 1980 x 1020
+* [Sample videos screen captures](./asset/sample/Screen_only_1080_no-zoom.mp4) in 1980 x 1020 - You will see the not all screen captures are included in the example of the finished video) 
 * [Sample still image](./sample/sample-azportal-kudupath.png) in 1980 x 1020
-* [Example of finish videos](./asset/sample/QnA%20-%20Execute%20an%20Exe%20in%20Azure_final.mp4) 
+* [Example of finished videos](./asset/sample/QnA%20-%20Execute%20an%20Exe%20in%20Azure_final.mp4) 
+
 
 ### Requirements  
 
 * [Template script](./asset/template/questions-and-answers-template.docx) to complete
 * Videos screen captures in 1980 x 1020 - Please ensure that there are no private and vital information e.g. IP addresses, URLs etc.
+* Please do not mark/call out on your screen captures. Indicate in the script, and our producers will do the call outs to adhere to similar branding. 
 
 <br></br>
 
