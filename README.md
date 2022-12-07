@@ -36,8 +36,9 @@ Before you start, here's what you need to note.
 Here are some resources that you may find helpful.
 
 ### Samples & Example
-
+Our content creator, Frank Boucher, has decided to address the question "How to run an .exe file from Azure Function" on Microsoft Q&A. 
 Here are all the pieces of content that Frank provided for the creation of a One Dev Q&A video.
+
 #### Script
 
 The script is the source of thru that provide all the information for us to produce your video. It provides the text that our professional will read to create an audio file.
