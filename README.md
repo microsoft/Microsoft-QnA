@@ -62,7 +62,7 @@ Have a look at [this screen capture](https://github.com/microsoft/Microsoft-QnA/
 ##### Still Images (Optional)
 Sometimes a video recording isn't sufficient to best answer the question. If you think this is your case, you can reach out to validate with us, and then send us your still images along with your video recording. 
 
-[Sample still image](asset/sample/sample-azportal-kudupath.png) in 1980 x 1020 >> fixing broken link here
+[Sample still image](asset/sample/sample-azportal-kudupath.png) also in 1980 x 1020
 
 #### Final Result Video
 
