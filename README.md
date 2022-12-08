@@ -43,27 +43,30 @@ Here are all the pieces of content that Frank provided for the creation of a One
 #### Script
 
 The script is the single source of truth that provides all the information for us to produce your video. It provides: 
-1. the text that our professional will read to create an audio file, 
-2. instructions for the video editor to highlight part of the screen when it make sense (example, highlight line 31 in the code when explanations are provided). 
+1. the text that our professional will read to create an audio file, and 
+2. the instructions for the video editor to highlight part of the screen when it make sense (example, highlight line 31 in the code when explanations are provided). 
 
-Have a look to [the script used](https://github.com/microsoft/Microsoft-QnA/raw/main/asset/sample/questions-and-answers-sample.docx) in the creation of the video. (It's a Word document.)
+Have a look at [the script used](https://github.com/microsoft/Microsoft-QnA/raw/main/asset/sample/questions-and-answers-sample.docx) in the creation of the video. (It's a Word document.)
 
 
 #### Screen Capture
 
-Once the script is done it's time to record your screen. Make sure it's in 1980 x 1020. Do not zoom-in or move your mouse cursor to highlight something... This should be part of the script. 
+Once the script is done, it's time to record your screen. 
+Because we want the videos to look as consistent as possible, you should take note of the following:
+1. Make sure it's in the format 1980 x 1020, .mp4 preferred. 
+2. Do not zoom-in or move your mouse cursor to highlight something. This should be part of the script. 
+3. You can talk while recording to help you with the speed. However, your voice won't be used in the final recording. 
 
-You can talk while recording to help you with the speed. However your voice won't be used in the final recording. Look [this screen capture](https://github.com/microsoft/Microsoft-QnA/raw/main/asset/sample/Screen_only_1080_no-zoom.mp4) an note how the mouse stay still.
+Have a look at [this screen capture](https://github.com/microsoft/Microsoft-QnA/raw/main/asset/sample/Screen_only_1080_no-zoom.mp4) and you may noticed how the cursor stays still.
 
 ##### Still Images (Optional)
-
-Sometime a video recording isn't the best solution to answer. If you think this is your case you can reach out to validate with us, and then use still images.
+Sometimes a video recording isn't the best solution to answer. If you think this is your case you can reach out to validate with us, and then send us your still images along with your video recording. 
 
 [Sample still image](asset/sample/sample-azportal-kudupath.png) in 1980 x 1020 >> fixing broken link here
 
 #### Final Result Video
 
-You can watch the 📺[final result in this finished video](./asset/sample/QnA%20-%20Execute%20an%20Exe%20in%20Azure_final.mp4). Note how the script provided the instruction to highlight section of the screen, and complement the screen recording.
+Now that you have seen the script, and the recordings that Frank has provided, you can watch the 📺[finished video](./asset/sample/QnA%20-%20Execute%20an%20Exe%20in%20Azure_final.mp4). Notice how the script provided the instructions to highlight section of the screen, and complement the screen recording.
 
 </br>
 
