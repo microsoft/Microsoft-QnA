@@ -42,9 +42,9 @@ Here are all the pieces of content that Frank provided for the creation of a One
 
 #### Script
 
-The script is the source of truth that provides all the information for us to produce your video. It provides the text that our professional will read to create an audio file.
-
-The script also contains instruction for the video editor to highlight part of the screen when it make sense (ex: highlight line 31 in the code when explanations are provided).
+The script is the single source of truth that provides all the information for us to produce your video. It provides: 
+1. the text that our professional will read to create an audio file, 
+2. instructions for the video editor to highlight part of the screen when it make sense (example, highlight line 31 in the code when explanations are provided). 
 
 Have a look to [the script used](https://github.com/microsoft/Microsoft-QnA/raw/main/asset/sample/questions-and-answers-sample.docx) in the creation of the video. (It's a Word document.)
 
