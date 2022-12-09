@@ -66,7 +66,7 @@ Sometimes a video recording isn't sufficient to best answer the question. If you
 
 #### Final Result Video
 
-Now that you have seen the script, and the recordings that Frank has provided, you can watch the 📺[finished video](./asset/sample/QnA%20-%20Execute%20an%20Exe%20in%20Azure_final.mp4). You will notice how the script provided the instructions to highlight section of the screen, and complement the screen recording.
+Now that you have seen the script, and the recordings that Frank has provided, you can watch the 📺finished video [mp4 file](./asset/sample/QnA%20-%20Execute%20an%20Exe%20in%20Azure_final.mp4) or [YouTube](https://www.youtube.com/watch?v=I0iheDwm5Ac). You will notice how the script provided the instructions to highlight section of the screen, and complement the screen recording.
 
 </br>
 
