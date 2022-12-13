@@ -80,6 +80,9 @@ Now that you have seen the script, and the recordings that Frank has provided, y
 
 <br></br>
 
+### Approved questions and contributors 
+Please check this section regularly as we continue to update the approved questions and the successful CFC submissions. 
+
 ##### Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
