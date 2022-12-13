@@ -48,7 +48,6 @@ The script is the single source of truth that provides all the information about
 
 Have a look at [the script used](https://github.com/microsoft/Microsoft-QnA/raw/main/asset/sample/questions-and-answers-sample.docx) in the creation of the video. (It's a Word document.)
 
-
 #### Screen Capture
 
 Once the script is done, it's time to record your screen. 
