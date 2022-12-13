@@ -82,10 +82,10 @@ Now that you have seen the script, and the recordings that Frank has provided, y
 
 ### Frequently Asked Questions 
 Please check this section regularly.
-<b> How do I know that I would not be answering a question that has been answered?</b>
+* <b> How do I know that I would not be answering a question that has been answered?</b>
 Approved submissions to the CFC and their respective questions will be displayed in the section "Contributors" below. This information will be provided for at the beginning of every week. Before submitting a CFC, all content creators should check that they do not submit a repeat question. 
-
-
+* <b> Could I produce the content in other languages other than English? </b>
+We are currently only accepting content in English; however, we are in the process of creating various platforms to allow hosting of non-English content. To ensure that our content is up-to-date and the latest, the CFC for non-English video take place when the platforms are ready and available.
 
 <br></br>
 
