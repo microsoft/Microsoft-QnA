@@ -80,8 +80,12 @@ Now that you have seen the script, and the recordings that Frank has provided, y
 
 <br></br>
 
-### Approved questions and contributors 
-Please check this section regularly as we continue to update the approved questions and the successful CFC submissions. 
+### Frequently Asked Questions 
+Please check this section regularly.
+<b> How do I know that I would not be answering a question that has been answered?</b>
+Approved submissions to the CFC and their respective questions will be displayed in the section "Contributors" below. This information will be provided for at the beginning of every week. Before submitting a CFC, all content creators should check that they do not submit a repeat question. 
+
+
 
 <br></br>
 
