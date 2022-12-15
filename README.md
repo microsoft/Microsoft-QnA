@@ -85,9 +85,10 @@ Please check this section regularly.
 * <b> How do I know that I would not be answering a question that has been answered?</b>
 <br> Approved submissions to the CFC and their respective questions will be displayed in the section "Contributors" below. This information will be provided for at the beginning of every week. Before submitting a CFC, all content creators should check that they do not submit a repeat question. </br>
 * <b> Could I produce the content in other languages other than English? </b>
-<br> We are currently only accepting content in English; however, we are in the process of creating various platforms to allow hosting of non-English content. To ensure that our content is up-to-date and the latest, the CFC for non-English video take place when the platforms are ready and available. </br>
-
-<br></br>
+<br> We are currently only accepting content in English; however, we are in the process of creating various platforms to allow hosting of non-English content. To ensure that our content is up-to-date and the latest, the CFC for non-English video take place when the platforms are ready and available.</br>
+* <b> What should I do with loading time when I am recording my screen?</b>
+<br> When you are creating resources or uploading files, you will need to wait for that process to be completed. This will cause your video recording to be longer than it should (or two minutes). Do not cut the video or speed it up. Our production team will take care of it. 
+</br>
 
 ##### Contributing
 
