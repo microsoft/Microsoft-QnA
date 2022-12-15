@@ -76,7 +76,7 @@ Now that you have seen the script, and the recordings that Frank has provided, y
     - Please ensure that there are no private and vital information e.g. IP addresses, URLs etc.
     - Please do not mark/call out on your screen captures. Indicate in the script, and our producers will do the call outs to adhere to similar branding. 
 * Complete [Call for Content form](https://forms.office.com/r/RMXR9TbVbe) to inform us to submit your content.
-* Refer to Tech Community Champion Guidelines when you submission is approved and before you upload your content. 
+* Refer to [Tech Community Champion Guidelines](https://learn.microsoft.com/answers/support/community-champions-program) when you submission is approved and before you upload your content. 
 
 <br></br>
 
