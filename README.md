@@ -22,7 +22,7 @@ Before you start, here's what you need to note.
 
 1.  Visit [Microsoft Q&A](https://aka.ms/MicrosoftQuestionsandAnswers)
     - Start by combing through the questions and the tags to find questions that are frequently asked, in the topic that you are passionate about. This question should be one that you are able to show the community how they can resolve the problem. 
-    - Refer to [briefing notes](asset/MicrosoftQnA-Briefing.pptx)
+    - Refer to [briefing notes](asset/MicrosoftQnA-Briefing.pptx) and [briefing recording video](https://youtu.be/hpFHnl5epyo)
 1. Once you decide on the question to address and answer, it's time to create your script.
     - Refer to sample script to learn what's expected of you, and use the template script found in the [Creator's resources](#creators-resources) below.
     - Refer to [How to write a quality answer](https://learn.microsoft.com/en-us/answers/support/quality-answer?utm_source=github) for the best practices.
