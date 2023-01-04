@@ -61,7 +61,7 @@ Have a look at [this screen capture](https://github.com/microsoft/Microsoft-QnA/
 ##### Still Images (Optional)
 Sometimes a video recording isn't sufficient to best answer the question. If you think this is your case, you can reach out to validate with us, and then send us your still images along with your video recording. 
 
-[Sample still image](asset/sample/sample-azportal-kudupath.png) also in 1980 x 1020
+[Sample still image](asset/sample/sample-azportal-kudupath.png) also in 1920 x 1080
 
 #### Final Result Video
 
@@ -72,7 +72,7 @@ Now that you have seen the script, and the recordings that Frank has provided, y
 ### ⚠️Requirements⚠️
 
 * [Template script](./asset/template/questions-and-answers-template.docx) for your completion.
-* Video of the screen captures in the format 1980 x 1020 
+* Video of the screen captures in the format 1920 x 1080 
     - Please ensure that there are no private and vital information e.g. IP addresses, URLs etc.
     - Please do not mark/call out on your screen captures. Indicate in the script, and our producers will do the call outs to adhere to similar branding. 
 * Complete [Call for Content form](https://forms.office.com/r/RMXR9TbVbe) to inform us to submit your content.
