@@ -52,7 +52,7 @@ Have a look at [the script used](https://github.com/microsoft/Microsoft-QnA/raw/
 
 Once the script is done, it's time to record your screen. 
 Because we want the videos to look as consistent as possible, you should take note of the following:
-1. Make sure it's in the format 1980 x 1020, .mp4 preferred. 
+1. Make sure it's in the format 1920 x 1080, .mp4 preferred. 
 2. Do not zoom-in or move your mouse cursor to highlight something. This should be part of the script. 
 3. You can talk while recording to help you with the speed. However, your voice won't be used in the final recording. 
 
