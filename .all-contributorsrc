@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "slapointe",
+      "name": "Stephane Lapointe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1054412?v=4",
+      "profile": "http://www.codeisahighway.com",
+      "contributions": [
+        "question",
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "Microsoft-QnA",
+  "projectOwner": "microsoft"
+}
