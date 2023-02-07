@@ -3,10 +3,6 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 ![Microsoft Q&A banner](./media/web-banner-header.png)
 
 Have you ever searched online for a solution to a tech problem that you have, and wished that you could have easily gotten the answer from a short video instead of having to comb through countless pages?
