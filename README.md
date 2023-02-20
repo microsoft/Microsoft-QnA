@@ -19,10 +19,17 @@ Short sizzle reels or trailers addressing frequently asked questions on Microsof
 
 Before you start, here's what you need to note. 
 
-1.  Visit [Microsoft Q&A](https://aka.ms/MicrosoftQuestionsandAnswers) or [Microsoft Power Platform Community Forum](https://powerusers.microsoft.com)
-    - Start by combing through the questions and the tags to find questions that are frequently asked, in the topic that you are passionate about. <br/>
-    **New!** We have now improved the program to provide you with the most frequently asked questions. You can find them the queries in [the discussions](https://github.com/microsoft/Microsoft-QnA/discussions)
-1. Once you decide on the question to address and answer, it's time to create your video.
+1.  Visit [Microsoft Q&A](https://aka.ms/MicrosoftQuestionsandAnswers)
+    - Start by combing through the questions and the tags to find questions that are frequently asked, in the topic that you are passionate about. This question should be one that you are able to show the community how they can resolve the problem. 
+    - Refer to [briefing notes](asset/MicrosoftQnA-Briefing.pptx) and [briefing recording video](https://youtu.be/hpFHnl5epyo)
+1. Once you decide on the question to address and answer, it's time to create your script.
+    - Refer to sample script to learn what's expected of you, and use the template script found in the [Creator's resources](#creators-resources) below.
+    - Refer to [How to write a quality answer](https://learn.microsoft.com/en-us/answers/support/quality-answer?utm_source=github) for the best practices.
+1. Provide a screen recording that will accompany your script. Follow requirements below.
+1. Complete [Call for Content form](https://forms.office.com/r/RMXR9TbVbe) to inform us to submit your content.  
+<i> Please note that submissions are subjected to Microsoft Q&A's team approval. Creators with shortlisted submissions will be notified via email before content is published on the site.</i>
+1. Once your submission is approved, we will work with you to produce the video. We'll take care of production and you can focus on creating great content. 
+1. Once video is produced, you will amplify it on Microsoft Q&A and other forums with similar threads and questions. 
 1. Provide a screen recording and narate your actions. Follow requirements below.
 1. Complete [Call for Content form](https://forms.office.com/r/RMXR9TbVbe) to inform us to submit your content.  
 <i> Please note that submissions are subjected to Microsoft Q&A's team approval. Creators with shortlisted submissions will be notified via email before content is published on the site.</i>
