@@ -22,7 +22,7 @@ Before you start, here's what you need to note.
 1. Visit [Microsoft Q&A](https://aka.ms/MicrosoftQuestionsandAnswers) or [Microsoft Power Platform Community Forum](https://powerusers.microsoft.com)
     - Start by combing through the questions and the tags to find questions that are frequently asked, in the topic that you are passionate about.
     - **New!** We have list the most frequently asked questions based on tags, as well as questions that fellow community have submitted. You can find them in [the discussions tab](https://github.com/microsoft/Microsoft-QnA/discussions).
-1. Once you decide on the question to address and answer, it's time to create your video. Provide a screen recording with the requirements below.
+1. Once you decide on the question to address and answer, it's time to create your video. Provide a screen recording with the [requirements](https://github.com/microsoft/Microsoft-QnA/tree/new-doc#%EF%B8%8Frequirements%EF%B8%8F) below.
 1. Complete [Call for Content form](https://forms.office.com/r/RMXR9TbVbe) to inform us to submit your content.  
 *Please note that submissions are subjected to Microsoft Q&A's team approval. Creators with shortlisted submissions will be notified via email before content is published on the site.*
 
@@ -35,7 +35,7 @@ Once your submission is approved, we will work with you to produce the video. We
 * Video of the screen captures in the format 1920 x 1080
     - Ensure that there are no private and vital information e.g. IP addresses, URLs etc.
     - Provide instructions (ex: blur, highlight) with the timestamp so our producers will be able to make the proper edits.
-* Make sure we can ear you clearly. All submission are in English.
+* Make sure we can ear you clearly. All submission are in English. If you prefer not to speak, make sure to provide a [script](https://github.com/microsoft/Microsoft-QnA/tree/new-doc#script-optional).
 * Complete [Call for Content form](https://forms.office.com/r/RMXR9TbVbe) to inform us to submit your content.
 
 <br></br>
