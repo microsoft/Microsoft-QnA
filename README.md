@@ -39,18 +39,8 @@ Here are some resources that you may find helpful.
 Our content creator, Frank Boucher, has decided to address the question "How to run an .exe file from Azure Function" (https://learn.microsoft.com/en-us/answers/questions/806260/execute-an-exe-in-azure.html) on Microsoft Q&A. 
 Here are all the pieces of content that Frank has provided for the creation of a One Dev Q&A video.
 
-#### Script
-
-The script is the single source of truth that provides all the information about your solution to the question so that we can produce the final video. It provides: 
-1. the text that our voice-over professional will read to create an audio file, and 
-2. the instructions for the video editor to highlight part of the screen when it make sense (example, highlight line 31 in the code when explanations are provided). 
-
-Have a look at [the script used](https://github.com/microsoft/Microsoft-QnA/raw/main/asset/sample/questions-and-answers-sample.docx) in the creation of the video. (It's a Word document.)
-
 #### Screen Capture
-
-Once the script is done, it's time to record your screen. 
-Because we want the videos to look as consistent as possible, you should take note of the following:
+A screen recording of hBecause we want the videos to look as consistent as possible, you should take note of the following:
 1. Make sure it's in the format 1920 x 1080, .mp4 preferred. 
 2. Do not zoom-in or move your mouse cursor to highlight something. This should be part of the script. 
 3. You can talk while recording to help you with the speed. However, your voice won't be used in the final recording. 
@@ -61,6 +51,16 @@ Have a look at [this screen capture](https://github.com/microsoft/Microsoft-QnA/
 Sometimes a video recording isn't sufficient to best answer the question. If you think this is your case, you can reach out to validate with us, and then send us your still images along with your video recording. 
 
 [Sample still image](asset/sample/sample-azportal-kudupath.png) also in 1920 x 1080
+
+#### Script (Optional)
+
+The script is the single source of truth that provides all the information about your solution to the question so that we can produce the final video. It provides: 
+1. the text that our voice-over professional will read to create an audio file, and 
+2. the instructions for the video editor to highlight part of the screen when it make sense (example, highlight line 31 in the code when explanations are provided). 
+
+Have a look at [the script used](https://github.com/microsoft/Microsoft-QnA/raw/main/asset/sample/questions-and-answers-sample.docx) in the creation of the video. (It's a Word document.)
+
+
 
 #### Final Result Video
 
