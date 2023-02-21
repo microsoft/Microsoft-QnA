@@ -50,7 +50,7 @@ Have a look the content already publish to give you an idea of what the video wi
 - [How to reference an existing resource in Bicep](https://learn.microsoft.com/en-us/shows/one-dev-minute/how-to-reference-an-existing-resource-in-bicep) to answer the question [Type casting in bicep](https://learn.microsoft.com/en-us/answers/questions/680702/type-casting-in-bicep) on Microsoft Q&A.
 - [How do you execute an Exe in Azure?](https://learn.microsoft.com/en-us/shows/one-dev-minute/how-do-you-execute-an-exe-in-azure) to answer the question [How to run an .exe file from Azure Function](https://learn.microsoft.com/en-us/answers/questions/806260/execute-an-exe-in-azure.html) on Microsoft Q&A.
 
-#### Screen Capture
+### Screen Capture
 Provide us with a screen recording of how you would address the answer to the question.
 Because we want the videos to look as consistent as possible, you should take note of the following:
 1. Make sure it's in the format 1920 x 1080, .mp4 preferred. 
@@ -58,7 +58,7 @@ Because we want the videos to look as consistent as possible, you should take no
 
 Have a look at [this screen capture](https://github.com/microsoft/Microsoft-QnA/raw/main/asset/sample/Screen_only_1080_no-zoom.mp4) and you may noticed how the cursor stays still.
 
-#### Script (Optional)
+### Script (Optional)
 We also provide you the option providing us a script along with your video. While we know this may be more laborious but this may also reduce the likelihood of clarifications back and forth that we may eventually have with you. The script also provide you the opportunity to think through your narrative, conceptualizing your video. For example, 
 1. what should our voice-over professional read to match your recording;
 2. what are the the instructions for the video editor to highlight part of the screen when it make sense (example, highlight line 31 in the code when explanations are provided). 
@@ -67,7 +67,6 @@ Have a look at [the script used](https://github.com/microsoft/Microsoft-QnA/raw/
 
 </br>
 
-
 ### Other references
 
 - Refer to [How to write a quality answer](https://learn.microsoft.com/en-us/answers/support/quality-answer?utm_source=github) for the best practices.
@@ -75,7 +74,7 @@ Have a look at [the script used](https://github.com/microsoft/Microsoft-QnA/raw/
 - Refer to [Tech Community Champion Guidelines](https://learn.microsoft.com/answers/support/community-champions-program) when you submission is approved and before you upload your content. 
 
 
-##### Contributing
+#### Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
 
