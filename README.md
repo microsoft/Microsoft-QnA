@@ -13,7 +13,7 @@ Have you ever searched online for a solution to a tech problem that you have, an
 
 Short sizzle reels or trailers addressing frequently asked questions on Microsoft Q&A played can help our community learn better. There is a new mantra in learning and that's "show, don't tell". 
 
-👉 We are inviting you to partner with us to create a no-longer than 2 minute content to address a frequently asked question found on any of our Microsoft forums like [Microsoft Q&A](https://aka.ms/MicrosoftQuestionsandAnswers), and [Power Platform Community](https://powerusers.microsoft.com)
+👉 We are inviting you to partner with us to create a no-longer than 2 minute content to address a frequently asked question found on any of our Microsoft forums like [Microsoft Q&A](https://aka.ms/MicrosoftQuestionsandAnswers), and [Power Platform Community](https://powerusers.microsoft.com).
 
 ## Creating your content
 
