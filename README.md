@@ -46,7 +46,7 @@ Because we want the videos to look as consistent as possible, you should take no
 
 Have a look at [this screen capture](https://github.com/microsoft/Microsoft-QnA/raw/main/asset/sample/Screen_only_1080_no-zoom.mp4) and you may noticed how the cursor stays still.
 
-##### Still Images (Optional)
+#### Still Images (Optional)
 Sometimes a video recording isn't sufficient to best answer the question. If you think this is your case, you can reach out to validate with us, and then send us your still images along with your video recording. 
 
 [Sample still image](asset/sample/sample-azportal-kudupath.png) also in 1920 x 1080
