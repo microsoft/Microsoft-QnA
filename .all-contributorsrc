@@ -25,6 +25,16 @@
         "question",
         "content"
       ]
+    },
+    {
+      "login": "ZaidZaim",
+      "name": "Zaid Zaim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43517319?v=4",
+      "profile": "https://www.linkedin.com/in/zaid-zaim-659883160/",
+      "contributions": [
+        "question",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
