@@ -25,7 +25,7 @@ Before you start, here's what you need to note.
 1. Once you decide on the question to address and answer, it's time to create your video. Provide a screen recording with the requirements below. 
     - Refer to [How to write a quality answer](https://learn.microsoft.com/en-us/answers/support/quality-answer?utm_source=github) for the best practices.
 1. Complete [Call for Content form](https://forms.office.com/r/RMXR9TbVbe) to inform us to submit your content.  
-<i> Please note that submissions are subjected to Microsoft Q&A's team approval. Creators with shortlisted submissions will be notified via email before content is published on the site.</i>
+    - <i> Please note that submissions are subjected to Microsoft Q&A's team approval. Creators with shortlisted submissions will be notified via email before content is published on the site.</i>
 1. Once your submission is approved, we will work with you to produce the video. We'll take care of production and you can focus on creating great content. 
 1. Once video is produced, you will amplify it on Microsoft Q&A and other forums with similar threads and questions. 
 
