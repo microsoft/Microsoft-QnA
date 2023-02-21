@@ -27,7 +27,7 @@ Before you start, here's what you need to note.
 1. Complete [Call for Content form](https://forms.office.com/r/RMXR9TbVbe) to inform us to submit your content.  
     - <i> Please note that submissions are subjected to Microsoft Q&A's team approval. Creators with shortlisted submissions will be notified via email before content is published on the site.</i>
 1. Once your submission is approved, we will work with you to produce the video. We'll take care of production so that you can focus on creating great content. 
-1. Once video is produced, you will amplify it on Microsoft Q&A and other forums with similar threads and questions. 
+1. Once the video is produced, you will amplify it on Microsoft Q&A and other forums with similar threads and questions. 
 
 ## Creator's resources
 
