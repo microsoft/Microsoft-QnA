@@ -21,7 +21,7 @@ Before you start, here's what you need to note.
 
 1.  Visit [Microsoft Q&A](https://aka.ms/MicrosoftQuestionsandAnswers) or [Microsoft Power Platform Community Forum](https://powerusers.microsoft.com)
     - Start by combing through the questions and the tags to find questions that are frequently asked, in the topic that you are passionate about. <br/>
-    **New!** We have now improved the program to provide you with the most frequently asked questions based on tags, as well as questions that fellow community have submitted. You can find them the queries in [the discussions](https://github.com/microsoft/Microsoft-QnA/discussions)
+    **New!** We have now improved the program to provide you with the most frequently asked questions based on tags, as well as questions that fellow community have submitted. You can find them the queries in [the discussions tab](https://github.com/microsoft/Microsoft-QnA/discussions).
 1. Once you decide on the question to address and answer, it's time to create your video. Provide a screen recording with the requirements below. 
     - Refer to [How to write a quality answer](https://learn.microsoft.com/en-us/answers/support/quality-answer?utm_source=github) for the best practices.
 1. Complete [Call for Content form](https://forms.office.com/r/RMXR9TbVbe) to inform us to submit your content.  
