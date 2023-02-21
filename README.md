@@ -22,10 +22,8 @@ Before you start, here's what you need to note.
 1.  Visit [Microsoft Q&A](https://aka.ms/MicrosoftQuestionsandAnswers) or [Microsoft Power Platform Community Forum](https://powerusers.microsoft.com)
     - Start by combing through the questions and the tags to find questions that are frequently asked, in the topic that you are passionate about. <br/>
     **New!** We have now improved the program to provide you with the most frequently asked questions. You can find them the queries in [the discussions](https://github.com/microsoft/Microsoft-QnA/discussions)
-1. Once you decide on the question to address and answer, it's time to create your video.
-    - Refer to sample script to learn what's expected of you, and use the template script found in the [Creator's resources](#creators-resources) below.
+1. Once you decide on the question to address and answer, it's time to create your video. Provide a screen recording that will accompany your script. Follow requirements below. Optional items to include would be a script (template script found in the [Creator's resources](#creators-resources) below.
     - Refer to [How to write a quality answer](https://learn.microsoft.com/en-us/answers/support/quality-answer?utm_source=github) for the best practices.
-1. Provide a screen recording that will accompany your script. Follow requirements below.
 1. Complete [Call for Content form](https://forms.office.com/r/RMXR9TbVbe) to inform us to submit your content.  
 <i> Please note that submissions are subjected to Microsoft Q&A's team approval. Creators with shortlisted submissions will be notified via email before content is published on the site.</i>
 1. Once your submission is approved, we will work with you to produce the video. We'll take care of production and you can focus on creating great content. 
@@ -40,7 +38,8 @@ Our content creator, Frank Boucher, has decided to address the question "How to 
 Here are all the pieces of content that Frank has provided for the creation of a One Dev Q&A video.
 
 #### Screen Capture
-A screen recording of hBecause we want the videos to look as consistent as possible, you should take note of the following:
+Provide us with a screen recording of how you would address the answer to the question. 
+Because we want the videos to look as consistent as possible, you should take note of the following:
 1. Make sure it's in the format 1920 x 1080, .mp4 preferred. 
 2. Do not zoom-in or move your mouse cursor to highlight something. This should be part of the script. 
 3. You can talk while recording to help you with the speed. However, your voice won't be used in the final recording. 
@@ -53,14 +52,11 @@ Sometimes a video recording isn't sufficient to best answer the question. If you
 [Sample still image](asset/sample/sample-azportal-kudupath.png) also in 1920 x 1080
 
 #### Script (Optional)
+We also provide you the option providing us a script. While we know this may be more labrious but this may also reduce the likelihood of clarifications back and forth that we may eventually have with you. The script also provide you the opportunity to think through your narrative, conceptualising your video. For example, 
+1. what should our voice-over professional read to match your recording;
+2. what are the the instructions for the video editor to highlight part of the screen when it make sense (example, highlight line 31 in the code when explanations are provided). 
 
-The script is the single source of truth that provides all the information about your solution to the question so that we can produce the final video. It provides: 
-1. the text that our voice-over professional will read to create an audio file, and 
-2. the instructions for the video editor to highlight part of the screen when it make sense (example, highlight line 31 in the code when explanations are provided). 
-
-Have a look at [the script used](https://github.com/microsoft/Microsoft-QnA/raw/main/asset/sample/questions-and-answers-sample.docx) in the creation of the video. (It's a Word document.)
-
-
+Have a look at [the script used](https://github.com/microsoft/Microsoft-QnA/raw/main/asset/sample/questions-and-answers-sample.docx) in the creation of the video. (It's a Word document.) [Template script](./asset/template/questions-and-answers-template.docx) for your use and to plan out your thought process.
 
 #### Final Result Video
 
@@ -70,7 +66,6 @@ Now that you have seen the script, and the recordings that Frank has provided, y
 
 ### ⚠️Requirements⚠️
 
-* [Template script](./asset/template/questions-and-answers-template.docx) for your completion.
 * Video of the screen captures in the format 1920 x 1080 
     - Please ensure that there are no private and vital information e.g. IP addresses, URLs etc.
     - Please do not mark/call out on your screen captures. Indicate in the script, and our producers will do the call outs to adhere to similar branding. 
