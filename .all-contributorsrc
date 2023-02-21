@@ -15,6 +15,16 @@
         "question",
         "content"
       ]
+    },
+    {
+      "login": "rbrayb",
+      "name": "rbrayb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5341999?v=4",
+      "profile": "https://medium.com/the-new-control-plane",
+      "contributions": [
+        "question",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

@@ -1,6 +1,6 @@
 # Microsoft Q&A
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Microsoft Q&A banner](./media/web-banner-header.png)
@@ -113,6 +113,7 @@ For more information see the [Code of Conduct FAQ](https://opensource.microsoft.
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://www.codeisahighway.com"><img src="https://avatars.githubusercontent.com/u/1054412?v=4?s=100" width="100px;" alt="Stephane Lapointe"/><br /><sub><b>Stephane Lapointe</b></sub></a><br /><a href="#question-slapointe" title="Answering Questions">💬</a> <a href="#content-slapointe" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://medium.com/the-new-control-plane"><img src="https://avatars.githubusercontent.com/u/5341999?v=4?s=100" width="100px;" alt="rbrayb"/><br /><sub><b>rbrayb</b></sub></a><br /><a href="#question-rbrayb" title="Answering Questions">💬</a> <a href="#content-rbrayb" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
