@@ -9,9 +9,9 @@ Have you ever searched online for a solution to a tech problem that you have, an
 
 <b> We feel the same, and YOU can now make a difference.</b>
 
-## Call for Content Creators 
+## Call for Content Creators
 
-Short sizzle reels or trailers addressing frequently asked questions on Microsoft Q&A played can help our community learn better. There is a new mantra in learning and that's "show, don't tell". 
+Short sizzle reels or trailers addressing frequently asked questions on Microsoft Q&A played can help our community learn better. There is a new mantra in learning and that's "show, don't tell".
 
 👉 We are inviting you to partner with us to create a no-longer than 2 minute content to address a frequently asked question found on any of our Microsoft forums like [Microsoft Q&A](https://aka.ms/MicrosoftQuestionsandAnswers), and [Power Platform Community](https://powerusers.microsoft.com).
 
@@ -21,9 +21,9 @@ Before you start, here's what you need to note.
 
 1.  Visit [Microsoft Q&A](https://aka.ms/MicrosoftQuestionsandAnswers) or [Microsoft Power Platform Community Forum](https://powerusers.microsoft.com)
     - Start by combing through the questions and the tags to find questions that are frequently asked, in the topic that you are passionate about. <br/>
-    **New!** We have now improved the program to provide you with the most frequently asked questions based on tags, as well as questions that fellow community have submitted. You can find them the queries in [the discussions tab](https://github.com/microsoft/Microsoft-QnA/discussions).
+    **New!** We have now improved the program to provide you with the most frequently asked questions based on tags, as well as questions that fellow community have submitted. You can find them in [the discussions tab](https://github.com/microsoft/Microsoft-QnA/discussions).
 1. Once you decide on the question to address and answer, it's time to create your video. Provide a screen recording with the requirements below. 
-    - Refer to [How to write a quality answer](https://learn.microsoft.com/en-us/answers/support/quality-answer?utm_source=github) for the best practices.
+    
 1. Complete [Call for Content form](https://forms.office.com/r/RMXR9TbVbe) to inform us to submit your content.  
     - <i> Please note that submissions are subjected to Microsoft Q&A's team approval. Creators with shortlisted submissions will be notified via email before content is published on the site.</i>
 
@@ -74,15 +74,13 @@ Now that you have seen the script, and the recordings that Frank has provided, y
 
 <br></br>
 
-### Frequently Asked Questions 
-Please check this section regularly.
-* <b> How do I know that I would not be answering a question that has been answered?</b>
-<br> Approved submissions to the CFC and their respective questions will be displayed in the section "Contributors" below. This information will be provided for at the beginning of every week. Before submitting a CFC, all content creators should check that they do not submit a repeat question. </br>
-* <b> Could I produce the content in other languages other than English? </b>
-<br> We are currently only accepting content in English; however, we are in the process of creating various platforms to allow hosting of non-English content. To ensure that our content is up-to-date and the latest, the CFC for non-English video take place when the platforms are ready and available.</br>
-* <b> What should I do with loading time when I am recording my screen?</b>
-<br> When you are creating resources or uploading files, you will need to wait for that process to be completed. This will cause your video recording to be longer than it should (or two minutes). Do not cut the video or speed it up. Our production team will take care of it. 
-</br>
+
+### Guidance and other references
+
+- Refer to [How to write a quality answer](https://learn.microsoft.com/en-us/answers/support/quality-answer?utm_source=github) for the best practices.
+
+> For all questions, please see the [Q&A section in the discussions tab](https://github.com/microsoft/Microsoft-QnA/discussions/categories/q-a).
+
 
 ##### Contributing
 
