@@ -70,7 +70,6 @@ Have a look at [the script used](https://github.com/microsoft/Microsoft-QnA/raw/
 ### Other references
 
 - Refer to [How to write a quality answer](https://learn.microsoft.com/en-us/answers/support/quality-answer?utm_source=github) for the best practices.
-
 - Refer to [Tech Community Champion Guidelines](https://learn.microsoft.com/answers/support/community-champions-program) when you submission is approved and before you upload your content. 
 
 
